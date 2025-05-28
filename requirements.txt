@@ -1,0 +1,11 @@
+langchain-core
+langchain-openai
+langgraph
+python-dotenv
+langsmith
+fastapi
+uvicorn
+coloredlogs
+tiktoken
+langchain-text-splitters
+langchain_chroma
